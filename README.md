@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Fix ONNX GPU inference bug (#6840)
