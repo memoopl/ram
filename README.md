@@ -1,1 +1,1 @@
-example Google Colab
+Clean up unused imgsz (#7771)
