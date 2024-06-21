@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Fix PIL show() and save() (#8202)
