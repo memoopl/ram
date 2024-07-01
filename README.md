@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+New HUB Cloud Training docs page (#8174)
