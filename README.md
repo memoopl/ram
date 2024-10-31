@@ -1,1 +1,1 @@
-Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
+Add visuals in guides/distance-calculation.md (#7876)
