@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Update neural-magic.md (#7347)
