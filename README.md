@@ -1,1 +1,1 @@
-fix resume training
+OBB: Fix plot_images (#7592)
